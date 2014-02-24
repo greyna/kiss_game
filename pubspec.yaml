@@ -1,4 +1,6 @@
-name: kiss_gamegine
-description: A sample web application
+name: kiss_game
+description: Simple game architecture made upon ideas from Game Coding Complete 4th edition.
 dependencies:
+  args: any
   browser: any
+  hop: any
