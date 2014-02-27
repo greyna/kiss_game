@@ -4,3 +4,4 @@ dependencies:
   args: any
   browser: any
   hop: any
+  unittest: any
